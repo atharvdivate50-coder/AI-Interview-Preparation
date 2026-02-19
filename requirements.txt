@@ -1,0 +1,9 @@
+# Web framework
+streamlit
+# Animation support
+streamlit-lottie
+# Web requests for animations
+requests
+# Voice processing
+SpeechRecognition
+PyAudio
