@@ -1,5 +1,0 @@
-streamlit
-opencv-python-headless
-opencv-contrib-python-headless
-SpeechRecognition
-mediapipe
